@@ -6,6 +6,7 @@ Example `.gemini.yml` that also uses [gemini-sauce](https://github.com/Saulis/ge
 
 ```yml
 rootUrl: http://127.0.0.1:9966
+gridUrl: http://ondemand.saucelabs.com/wd/hub
 
 plugins:
   sauce:
